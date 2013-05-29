@@ -1,3 +1,8 @@
+// shroudcap.scad
+// Turnbuckle Boot Caps
+// 
+// Copyright 2013 Christopher Roberts
+
 // Global Parameters
 
 // Top cone
