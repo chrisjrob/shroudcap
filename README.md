@@ -7,7 +7,6 @@ GPL v3 Licence - see LICENCE.md
 
 Description
 -----------
-
 OpenSCAD design for Turnbuckle boot caps.
 
 Sailing boats typically have plastic or rubber cylindrical covers for the lower part of the shrouds and stays (the wires that hold up the mast). These covers are called "Turnbuckle Boots".
@@ -20,5 +19,4 @@ See pictures to see the printed result on my boat.
 
 Instructions
 ------------
-
 No special print instructions, printed fine on a RepRap Prusa Mendel without support.
